@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\bin\Debug\net6.0\DoubleArray.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\bin\Debug\net6.0\DoubleArray.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\bin\Debug\net6.0\DoubleArray.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\bin\Debug\net6.0\DoubleArray.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\bin\Debug\net6.0\DoubleArray.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\refint\DoubleArray.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\DoubleArray.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\DoubleArray\obj\Debug\net6.0\ref\DoubleArray.dll
