@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\bin\Debug\net6.0\RecursionAlgorithm.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\refint\RecursionAlgorithm.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\RecursionAlgorithm.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\RecursionAlgorithm\obj\Debug\net6.0\ref\RecursionAlgorithm.dll
