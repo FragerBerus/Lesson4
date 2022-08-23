@@ -1,0 +1,15 @@
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\bin\Debug\net6.0\Factorial.exe
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\bin\Debug\net6.0\Factorial.deps.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\bin\Debug\net6.0\Factorial.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\bin\Debug\net6.0\Factorial.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.pdb
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+F:\Документы\Обучение\Обучение IT\5. Знакомство с языками программирования\5.9. Lesson 4\Factorial\obj\Debug\net6.0\ref\Factorial.dll
